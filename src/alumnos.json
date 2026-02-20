@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "García López",
+    "edad": 18,
+    "email": "juan.garcia@escola.edu",
+    "telefono": "+34 612 345 678",
+    "imagen": "https://i.pravatar.cc/150?img=1",
+    "direccion": "Calle Principal 123, Barcelona",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 8.5,
+      "lenguaje": 7.8,
+      "informatica": 9.2,
+      "fisica": 8.0
+    },
+    "asistencia": 95
+  },
+  {
+    "id": 2,
+    "nombre": "María",
+    "apellido": "Rodríguez Martín",
+    "edad": 17,
+    "email": "maria.rodriguez@escola.edu",
+    "telefono": "+34 612 345 679",
+    "imagen": "https://i.pravatar.cc/150?img=2",
+    "direccion": "Avenida Central 456, Madrid",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 9.0,
+      "lenguaje": 8.5,
+      "informatica": 8.8,
+      "fisica": 8.2
+    },
+    "asistencia": 98
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos",
+    "apellido": "Martínez Torres",
+    "edad": 18,
+    "email": "carlos.martinez@escola.edu",
+    "telefono": "+34 612 345 680",
+    "imagen": "https://i.pravatar.cc/150?img=3",
+    "direccion": "Paseo del Mar 789, Valencia",
+    "curso": "DAM",
+    "calificaciones": {
+      "matematicas": 7.5,
+      "lenguaje": 7.2,
+      "informatica": 8.5,
+      "fisica": 7.8
+    },
+    "asistencia": 92
+  },
+  {
+    "id": 4,
+    "nombre": "Ana",
+    "apellido": "González Sánchez",
+    "edad": 17,
+    "email": "ana.gonzalez@escola.edu",
+    "telefono": "+34 612 345 681",
+    "imagen": "https://i.pravatar.cc/150?img=4",
+    "direccion": "Calle del Río 321, Bilbao",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 8.8,
+      "lenguaje": 9.0,
+      "informatica": 9.5,
+      "fisica": 8.7
+    },
+    "asistencia": 99
+  },
+  {
+    "id": 5,
+    "nombre": "David",
+    "apellido": "Pérez García",
+    "edad": 18,
+    "email": "david.perez@escola.edu",
+    "telefono": "+34 612 345 682",
+    "imagen": "https://i.pravatar.cc/150?img=5",
+    "direccion": "Plaza Mayor 654, Sevilla",
+    "curso": "DAM",
+    "calificaciones": {
+      "matematicas": 6.8,
+      "lenguaje": 7.0,
+      "informatica": 7.5,
+      "fisica": 6.9
+    },
+    "asistencia": 88
+  },
+  {
+    "id": 6,
+    "nombre": "Elena",
+    "apellido": "López Fernández",
+    "edad": 17,
+    "email": "elena.lopez@escola.edu",
+    "telefono": "+34 612 345 683",
+    "imagen": "https://i.pravatar.cc/150?img=6",
+    "direccion": "Calle Ancha 987, Málaga",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 9.2,
+      "lenguaje": 8.9,
+      "informatica": 9.1,
+      "fisica": 9.0
+    },
+    "asistencia": 97
+  },
+  {
+    "id": 7,
+    "nombre": "Francisco",
+    "apellido": "Hernández Ruiz",
+    "edad": 18,
+    "email": "francisco.hernandez@escola.edu",
+    "telefono": "+34 612 345 684",
+    "imagen": "https://i.pravatar.cc/150?img=7",
+    "direccion": "Avenida del Parque 147, Alicante",
+    "curso": "DAM",
+    "calificaciones": {
+      "matematicas": 8.1,
+      "lenguaje": 7.5,
+      "informatica": 8.8,
+      "fisica": 8.3
+    },
+    "asistencia": 93
+  },
+  {
+    "id": 8,
+    "nombre": "Lucia",
+    "apellido": "García Pinto",
+    "edad": 17,
+    "email": "lucia.garcia@escola.edu",
+    "telefono": "+34 612 345 685",
+    "imagen": "https://i.pravatar.cc/150?img=8",
+    "direccion": "Calle Flores 258, Córdoba",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 7.9,
+      "lenguaje": 8.4,
+      "informatica": 8.6,
+      "fisica": 8.1
+    },
+    "asistencia": 94
+  },
+  {
+    "id": 9,
+    "nombre": "Pablo",
+    "apellido": "Sánchez Moreno",
+    "edad": 18,
+    "email": "pablo.sanchez@escola.edu",
+    "telefono": "+34 612 345 686",
+    "imagen": "https://i.pravatar.cc/150?img=9",
+    "direccion": "Paseo Central 369, Murcia",
+    "curso": "DAM",
+    "calificaciones": {
+      "matematicas": 8.4,
+      "lenguaje": 8.1,
+      "informatica": 9.0,
+      "fisica": 8.5
+    },
+    "asistencia": 96
+  },
+  {
+    "id": 10,
+    "nombre": "Sofía",
+    "apellido": "Ramírez López",
+    "edad": 17,
+    "email": "sofia.ramirez@escola.edu",
+    "telefono": "+34 612 345 687",
+    "imagen": "https://i.pravatar.cc/150?img=10",
+    "direccion": "Calle Nueva 741, Zaragoza",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 9.3,
+      "lenguaje": 9.1,
+      "informatica": 9.2,
+      "fisica": 9.0
+    },
+    "asistencia": 100
+  },
+  {
+    "id": 11,
+    "nombre": "Miguel",
+    "apellido": "Castro Gómez",
+    "edad": 18,
+    "email": "miguel.castro@escola.edu",
+    "telefono": "+34 612 345 688",
+    "imagen": "https://i.pravatar.cc/150?img=11",
+    "direccion": "Avenida Este 852, Palma",
+    "curso": "DAM",
+    "calificaciones": {
+      "matematicas": 7.6,
+      "lenguaje": 7.3,
+      "informatica": 8.2,
+      "fisica": 7.9
+    },
+    "asistencia": 91
+  },
+  {
+    "id": 12,
+    "nombre": "Isabel",
+    "apellido": "Martínez Díaz",
+    "edad": 17,
+    "email": "isabel.martinez@escola.edu",
+    "telefono": "+34 612 345 689",
+    "imagen": "https://i.pravatar.cc/150?img=12",
+    "direccion": "Calle Sur 963, Las Palmas",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 8.7,
+      "lenguaje": 8.8,
+      "informatica": 8.9,
+      "fisica": 8.6
+    },
+    "asistencia": 97
+  },
+  {
+    "id": 13,
+    "nombre": "Roberto",
+    "apellido": "Fernández Blanco",
+    "edad": 18,
+    "email": "roberto.fernandez@escola.edu",
+    "telefono": "+34 612 345 690",
+    "imagen": "https://i.pravatar.cc/150?img=13",
+    "direccion": "Paseo Oeste 147, Alcalá",
+    "curso": "DAM",
+    "calificaciones": {
+      "matematicas": 6.9,
+      "lenguaje": 6.8,
+      "informatica": 7.3,
+      "fisica": 7.0
+    },
+    "asistencia": 85
+  },
+  {
+    "id": 14,
+    "nombre": "Marta",
+    "apellido": "Álvarez Caballero",
+    "edad": 17,
+    "email": "marta.alvarez@escola.edu",
+    "telefono": "+34 612 345 691",
+    "imagen": "https://i.pravatar.cc/150?img=14",
+    "direccion": "Calle Éxito 258, Sabadell",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 8.9,
+      "lenguaje": 9.2,
+      "informatica": 9.4,
+      "fisica": 9.1
+    },
+    "asistencia": 98
+  },
+  {
+    "id": 15,
+    "nombre": "José",
+    "apellido": "Ortiz Silva",
+    "edad": 18,
+    "email": "jose.ortiz@escola.edu",
+    "telefono": "+34 612 345 692",
+    "imagen": "https://i.pravatar.cc/150?img=15",
+    "direccion": "Avenida Éxito 369, Badalona",
+    "curso": "DAM",
+    "calificaciones": {
+      "matematicas": 7.8,
+      "lenguaje": 7.6,
+      "informatica": 8.4,
+      "fisica": 8.0
+    },
+    "asistencia": 92
+  },
+  {
+    "id": 16,
+    "nombre": "Cristina",
+    "apellido": "Díaz Romero",
+    "edad": 17,
+    "email": "cristina.diaz@escola.edu",
+    "telefono": "+34 612 345 693",
+    "imagen": "https://i.pravatar.cc/150?img=16",
+    "direccion": "Calle Principal 741, Córdoba",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 8.3,
+      "lenguaje": 8.6,
+      "informatica": 8.7,
+      "fisica": 8.4
+    },
+    "asistencia": 95
+  },
+  {
+    "id": 17,
+    "nombre": "Fernando",
+    "apellido": "Moreno Castro",
+    "edad": 18,
+    "email": "fernando.moreno@escola.edu",
+    "telefono": "+34 612 345 694",
+    "imagen": "https://i.pravatar.cc/150?img=17",
+    "direccion": "Paseo Este 852, Tarragona",
+    "curso": "DAM",
+    "calificaciones": {
+      "matematicas": 8.0,
+      "lenguaje": 7.9,
+      "informatica": 8.6,
+      "fisica": 8.2
+    },
+    "asistencia": 94
+  },
+  {
+    "id": 18,
+    "nombre": "Raquel",
+    "apellido": "Herrera Peña",
+    "edad": 17,
+    "email": "raquel.herrera@escola.edu",
+    "telefono": "+34 612 345 695",
+    "imagen": "https://i.pravatar.cc/150?img=18",
+    "direccion": "Avenida Norte 963, Lleida",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 9.1,
+      "lenguaje": 8.9,
+      "informatica": 9.3,
+      "fisica": 9.0
+    },
+    "asistencia": 99
+  },
+  {
+    "id": 19,
+    "nombre": "Vicente",
+    "apellido": "Reyes Molina",
+    "edad": 18,
+    "email": "vicente.reyes@escola.edu",
+    "telefono": "+34 612 345 696",
+    "imagen": "https://i.pravatar.cc/150?img=19",
+    "direccion": "Calle Alegría 147, Oviedo",
+    "curso": "DAM",
+    "calificaciones": {
+      "matematicas": 7.4,
+      "lenguaje": 7.1,
+      "informatica": 8.0,
+      "fisica": 7.6
+    },
+    "asistencia": 90
+  },
+  {
+    "id": 20,
+    "nombre": "Natalia",
+    "apellido": "Campos Vega",
+    "edad": 17,
+    "email": "natalia.campos@escola.edu",
+    "telefono": "+34 612 345 697",
+    "imagen": "https://i.pravatar.cc/150?img=20",
+    "direccion": "Paseo Sur 258, Avilés",
+    "curso": "DAW",
+    "calificaciones": {
+      "matematicas": 8.6,
+      "lenguaje": 8.7,
+      "informatica": 8.8,
+      "fisica": 8.5
+    },
+    "asistencia": 96
+  }
+]
